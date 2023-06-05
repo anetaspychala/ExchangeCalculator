@@ -65,7 +65,7 @@
 
 }
 .conteiner{
-    height: 40%;
+    height: 200px;
     width: 70%;
     background-color: whitesmoke;
     border-radius: 10px;
@@ -78,7 +78,7 @@
 }
 input{
     width: 250px;
-    height: 20px;
+    height: 30px;
     border-radius: 5px;
     border: 2px solid #ddd;
 }
@@ -93,6 +93,14 @@ input{
 }
 .leftLabel{
     float: left;
+}
+.transfer{
+  background-color: #00243D;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
 #footer{
     height: 30px;
